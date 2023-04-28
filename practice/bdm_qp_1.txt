@@ -1,0 +1,22 @@
+
+
+price elasticity of demand = (% change in qty demanded) / (% change in price)
+
+Therefore,
+% change in qty = (price elasticity) * (% change in price)
+
+		= 1.2 * ((200-50)/200)
+		
+		= 1.2 * 0.75
+
+% change in qty = 0.9
+
+That is,
+
+(old qty - new qty) / old qty = 0.9
+new qty = old qty - (0.9 * old qty)
+
+Therefore,
+
+new qty = 0.1 * old qty
+
